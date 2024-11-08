@@ -1,0 +1,129 @@
+2024-11-05 16:25:09,286 - INFO - Starting system health monitoring...
+2024-11-05 16:25:10,288 - INFO - CPU usage is normal: 1.3%
+2024-11-05 16:25:10,294 - INFO - Memory usage is normal: 58.4%
+2024-11-05 16:25:10,295 - INFO - Disk usage is normal: 27.0%
+2024-11-05 16:25:10,320 - INFO - Top 5 CPU consuming processes:
+2024-11-05 16:25:10,321 - INFO - PID: 0, Name: System Idle Process, CPU: 0.0%, Memory: 9.68485013420781e-05%
+2024-11-05 16:25:10,321 - INFO - PID: 4, Name: System, CPU: 0.0%, Memory: 0.05893231306665453%
+2024-11-05 16:25:10,321 - INFO - PID: 124, Name: Registry, CPU: 0.0%, Memory: 0.4997866911757941%
+2024-11-05 16:25:10,322 - INFO - PID: 132, Name: chrome.exe, CPU: 0.0%, Memory: 0.62123471185876%
+2024-11-05 16:25:10,322 - INFO - PID: 332, Name: services.exe, CPU: 0.0%, Memory: 0.1259999002460436%
+2024-11-05 16:26:11,325 - INFO - CPU usage is normal: 1.2%
+2024-11-05 16:26:11,331 - INFO - Memory usage is normal: 58.4%
+2024-11-05 16:26:11,332 - INFO - Disk usage is normal: 27.0%
+2024-11-05 16:26:11,379 - INFO - Top 5 CPU consuming processes:
+2024-11-05 16:26:11,380 - INFO - PID: 0, Name: System Idle Process, CPU: 789.0%, Memory: 9.68485013420781e-05%
+2024-11-05 16:26:11,386 - INFO - PID: 3356, Name: AvastSvc.exe, CPU: 1.2%, Memory: 2.554330798646639%
+2024-11-05 16:26:11,393 - INFO - PID: 4, Name: System, CPU: 0.7%, Memory: 0.05893231306665453%
+2024-11-05 16:26:11,394 - INFO - PID: 5792, Name: aswEngSrv.exe, CPU: 0.6%, Memory: 1.7180924138084654%
+2024-11-05 16:26:11,396 - INFO - PID: 764, Name: svchost.exe, CPU: 0.4%, Memory: 0.43325177075378646%
+2024-11-05 16:27:12,402 - INFO - CPU usage is normal: 2.1%
+2024-11-05 16:27:12,408 - INFO - Memory usage is normal: 58.2%
+2024-11-05 16:27:12,409 - INFO - Disk usage is normal: 27.0%
+2024-11-05 16:27:12,435 - INFO - Top 5 CPU consuming processes:
+2024-11-05 16:27:12,435 - INFO - PID: 0, Name: System Idle Process, CPU: 794.4%, Memory: 9.68485013420781e-05%
+2024-11-05 16:27:12,438 - INFO - PID: 3356, Name: AvastSvc.exe, CPU: 1.2%, Memory: 2.5550087381560336%
+2024-11-05 16:27:12,444 - INFO - PID: 5792, Name: aswEngSrv.exe, CPU: 0.5%, Memory: 1.7194482928272545%
+2024-11-05 16:27:12,445 - INFO - PID: 14832, Name: dwm.exe, CPU: 0.5%, Memory: 0.9492121616537076%
+2024-11-05 16:27:12,446 - INFO - PID: 4, Name: System, CPU: 0.3%, Memory: 0.05893231306665453%
+2024-11-05 16:28:13,448 - INFO - CPU usage is normal: 4.4%
+2024-11-05 16:28:13,454 - INFO - Memory usage is normal: 58.1%
+2024-11-05 16:28:13,455 - INFO - Disk usage is normal: 27.0%
+2024-11-05 16:28:13,503 - INFO - Top 5 CPU consuming processes:
+2024-11-05 16:28:13,504 - INFO - PID: 0, Name: System Idle Process, CPU: 790.3%, Memory: 9.68485013420781e-05%
+2024-11-05 16:28:13,505 - INFO - PID: 14832, Name: dwm.exe, CPU: 2.0%, Memory: 1.1316263139315117%
+2024-11-05 16:28:13,505 - INFO - PID: 12860, Name: chrome.exe, CPU: 1.0%, Memory: 2.183497887007822%
+2024-11-05 16:28:13,506 - INFO - PID: 3356, Name: AvastSvc.exe, CPU: 0.9%, Memory: 2.555541404913415%
+2024-11-05 16:28:13,507 - INFO - PID: 13452, Name: chrome.exe, CPU: 0.6%, Memory: 2.310224151013931%
+2024-11-05 16:29:14,512 - INFO - CPU usage is normal: 4.6%
+2024-11-05 16:29:14,519 - INFO - Memory usage is normal: 58.5%
+2024-11-05 16:29:14,519 - INFO - Disk usage is normal: 27.0%
+2024-11-05 16:29:14,535 - INFO - Top 5 CPU consuming processes:
+2024-11-05 16:29:14,535 - INFO - PID: 0, Name: System Idle Process, CPU: 745.8%, Memory: 9.68485013420781e-05%
+2024-11-05 16:29:14,535 - INFO - PID: 12860, Name: chrome.exe, CPU: 16.7%, Memory: 2.4212609578026236%
+2024-11-05 16:29:14,535 - INFO - PID: 12580, Name: chrome.exe, CPU: 14.6%, Memory: 1.9727555480874601%
+2024-11-05 16:29:14,536 - INFO - PID: 14832, Name: dwm.exe, CPU: 10.9%, Memory: 1.252154273851728%
+2024-11-05 16:29:14,536 - INFO - PID: 13452, Name: chrome.exe, CPU: 3.2%, Memory: 2.286108874179754%
+2024-11-05 16:30:15,538 - INFO - CPU usage is normal: 1.2%
+2024-11-05 16:30:15,540 - INFO - Memory usage is normal: 58.7%
+2024-11-05 16:30:15,541 - INFO - Disk usage is normal: 27.0%
+2024-11-05 16:30:15,554 - INFO - Top 5 CPU consuming processes:
+2024-11-05 16:30:15,554 - INFO - PID: 0, Name: System Idle Process, CPU: 779.9%, Memory: 9.68485013420781e-05%
+2024-11-05 16:30:15,554 - INFO - PID: 4116, Name: aswidsagent.exe, CPU: 11.0%, Memory: 1.3505039269646082%
+2024-11-05 16:30:15,555 - INFO - PID: 3820, Name: explorer.exe, CPU: 1.4%, Memory: 2.04219592354973%
+2024-11-05 16:30:15,555 - INFO - PID: 9256, Name: chrome.exe, CPU: 1.2%, Memory: 2.6361677822806953%
+2024-11-05 16:30:15,555 - INFO - PID: 3356, Name: AvastSvc.exe, CPU: 1.1%, Memory: 2.5574783749402563%
+2024-11-05 16:31:16,557 - INFO - CPU usage is normal: 2.1%
+2024-11-05 16:31:16,560 - INFO - Memory usage is normal: 58.3%
+2024-11-05 16:31:16,560 - INFO - Disk usage is normal: 27.0%
+2024-11-05 16:31:16,573 - INFO - Top 5 CPU consuming processes:
+2024-11-05 16:31:16,573 - INFO - PID: 0, Name: System Idle Process, CPU: 794.8%, Memory: 9.68485013420781e-05%
+2024-11-05 16:31:16,574 - INFO - PID: 3356, Name: AvastSvc.exe, CPU: 1.5%, Memory: 2.55016631308893%
+2024-11-05 16:31:16,575 - INFO - PID: 132, Name: chrome.exe, CPU: 0.3%, Memory: 0.6218642271174835%
+2024-11-05 16:31:16,576 - INFO - PID: 2176, Name: svchost.exe, CPU: 0.3%, Memory: 0.17452099941842475%
+2024-11-05 16:31:16,576 - INFO - PID: 5792, Name: aswEngSrv.exe, CPU: 0.3%, Memory: 1.7226927176222144%
+2024-11-05 16:32:17,578 - INFO - CPU usage is normal: 0.0%
+2024-11-05 16:32:17,584 - INFO - Memory usage is normal: 58.2%
+2024-11-05 16:32:17,585 - INFO - Disk usage is normal: 27.0%
+2024-11-05 16:32:17,601 - INFO - Top 5 CPU consuming processes:
+2024-11-05 16:32:17,601 - INFO - PID: 0, Name: System Idle Process, CPU: 795.9%, Memory: 9.68485013420781e-05%
+2024-11-05 16:32:17,602 - INFO - PID: 3356, Name: AvastSvc.exe, CPU: 1.3%, Memory: 2.5520064346144293%
+2024-11-05 16:32:17,602 - INFO - PID: 5792, Name: aswEngSrv.exe, CPU: 0.3%, Memory: 1.7292299914628046%
+2024-11-05 16:32:17,602 - INFO - PID: 132, Name: chrome.exe, CPU: 0.2%, Memory: 0.6213799846107732%
+2024-11-05 16:32:17,602 - INFO - PID: 4, Name: System, CPU: 0.1%, Memory: 0.05893231306665453%
+2024-11-08 09:53:43,173 - INFO - Starting system health monitoring...
+2024-11-08 09:53:44,175 - INFO - CPU usage is normal: 11.7%
+2024-11-08 09:53:44,184 - INFO - Memory usage is normal: 66.3%
+2024-11-08 09:53:44,185 - INFO - Disk usage is normal: 29.8%
+2024-11-08 09:53:44,265 - INFO - Top 5 CPU consuming processes:
+2024-11-08 09:53:44,265 - INFO - PID: 0, Name: System Idle Process, CPU: 0.0%, Memory: 9.68485013420781e-05%
+2024-11-08 09:53:44,267 - INFO - PID: 4, Name: System, CPU: 0.0%, Memory: 0.01685163923352159%
+2024-11-08 09:53:44,268 - INFO - PID: 124, Name: Registry, CPU: 0.0%, Memory: 1.510110257176353%
+2024-11-08 09:53:44,269 - INFO - PID: 456, Name: services.exe, CPU: 0.0%, Memory: 0.1676447558231372%
+2024-11-08 09:53:44,269 - INFO - PID: 492, Name: lsass.exe, CPU: 0.0%, Memory: 0.26008665035415074%
+2024-11-08 09:54:45,286 - INFO - CPU usage is normal: 6.4%
+2024-11-08 09:54:45,296 - INFO - Memory usage is normal: 65.0%
+2024-11-08 09:54:45,297 - INFO - Disk usage is normal: 29.8%
+2024-11-08 09:54:45,326 - INFO - Top 5 CPU consuming processes:
+2024-11-08 09:54:45,327 - INFO - PID: 0, Name: System Idle Process, CPU: 770.1%, Memory: 9.68485013420781e-05%
+2024-11-08 09:54:45,327 - INFO - PID: 1388, Name: dwm.exe, CPU: 3.3%, Memory: 1.247457121536637%
+2024-11-08 09:54:45,327 - INFO - PID: 1412, Name: chrome.exe, CPU: 3.3%, Memory: 1.8772145015134998%
+2024-11-08 09:54:45,328 - INFO - PID: 7584, Name: explorer.exe, CPU: 2.7%, Memory: 2.308626150741787%
+2024-11-08 09:54:45,328 - INFO - PID: 11900, Name: chrome.exe, CPU: 2.3%, Memory: 3.0285010612174537%
+2024-11-08 09:57:09,423 - INFO - Starting system health monitoring...
+2024-11-08 09:57:10,424 - INFO - CPU usage is normal: 0.4%
+2024-11-08 09:57:10,432 - WARNING - High memory usage: 64.8% (Threshold: 20%)
+2024-11-08 09:57:10,433 - INFO - Disk usage is normal: 29.8%
+2024-11-08 09:57:10,460 - INFO - Top 5 CPU consuming processes:
+2024-11-08 09:57:10,460 - INFO - PID: 0, Name: System Idle Process, CPU: 0.0%, Memory: 9.68485013420781e-05%
+2024-11-08 09:57:10,461 - INFO - PID: 4, Name: System, CPU: 0.0%, Memory: 0.01685163923352159%
+2024-11-08 09:57:10,461 - INFO - PID: 124, Name: Registry, CPU: 0.0%, Memory: 1.0359399946055385%
+2024-11-08 09:57:10,461 - INFO - PID: 456, Name: services.exe, CPU: 0.0%, Memory: 0.16759633157246617%
+2024-11-08 09:57:10,461 - INFO - PID: 492, Name: lsass.exe, CPU: 0.0%, Memory: 0.2624110143863606%
+2024-11-08 09:58:11,464 - INFO - CPU usage is normal: 0.4%
+2024-11-08 09:58:11,471 - WARNING - High memory usage: 62.8% (Threshold: 20%)
+2024-11-08 09:58:11,471 - INFO - Disk usage is normal: 29.8%
+2024-11-08 09:58:11,489 - INFO - Top 5 CPU consuming processes:
+2024-11-08 09:58:11,490 - INFO - PID: 0, Name: System Idle Process, CPU: 782.8%, Memory: 9.68485013420781e-05%
+2024-11-08 09:58:11,490 - INFO - PID: 7584, Name: explorer.exe, CPU: 3.0%, Memory: 2.2919197842602785%
+2024-11-08 09:58:11,490 - INFO - PID: 2416, Name: MemCompression, CPU: 2.2%, Memory: 0.42177522334475015%
+2024-11-08 09:58:11,490 - INFO - PID: 8936, Name: svchost.exe, CPU: 1.9%, Memory: 0.8896019090776583%
+2024-11-08 09:58:11,491 - INFO - PID: 2476, Name: svchost.exe, CPU: 1.7%, Memory: 0.246769981419615%
+2024-11-08 09:59:12,495 - INFO - CPU usage is normal: 3.2%
+2024-11-08 09:59:12,503 - WARNING - High memory usage: 60.6% (Threshold: 20%)
+2024-11-08 09:59:12,504 - INFO - Disk usage is normal: 29.8%
+2024-11-08 09:59:12,556 - INFO - Top 5 CPU consuming processes:
+2024-11-08 09:59:12,557 - INFO - PID: 0, Name: System Idle Process, CPU: 789.7%, Memory: 9.68485013420781e-05%
+2024-11-08 09:59:12,563 - INFO - PID: 3732, Name: AvastSvc.exe, CPU: 1.3%, Memory: 2.3370511858856866%
+2024-11-08 09:59:12,570 - INFO - PID: 4, Name: System, CPU: 0.9%, Memory: 0.01690006348419263%
+2024-11-08 09:59:12,571 - INFO - PID: 2416, Name: MemCompression, CPU: 0.9%, Memory: 1.0102751417498879%
+2024-11-08 09:59:12,577 - INFO - PID: 1152, Name: svchost.exe, CPU: 0.4%, Memory: 0.19636033647106335%
+2024-11-08 10:00:13,591 - INFO - CPU usage is normal: 0.0%
+2024-11-08 10:00:13,598 - WARNING - High memory usage: 60.6% (Threshold: 20%)
+2024-11-08 10:00:13,598 - INFO - Disk usage is normal: 29.8%
+2024-11-08 10:00:13,626 - INFO - Top 5 CPU consuming processes:
+2024-11-08 10:00:13,626 - INFO - PID: 0, Name: System Idle Process, CPU: 795.0%, Memory: 9.68485013420781e-05%
+2024-11-08 10:00:13,631 - INFO - PID: 3732, Name: AvastSvc.exe, CPU: 0.6%, Memory: 2.3519658550923666%
+2024-11-08 10:00:13,634 - INFO - PID: 4, Name: System, CPU: 0.3%, Memory: 0.01690006348419263%
+2024-11-08 10:00:13,635 - INFO - PID: 492, Name: lsass.exe, CPU: 0.3%, Memory: 0.279020532366527%
+2024-11-08 10:00:13,640 - INFO - PID: 3312, Name: svchost.exe, CPU: 0.3%, Memory: 0.10609753322024656%
